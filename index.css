@@ -77,3 +77,9 @@ footer{
     padding-top: 10px; 
   }
 }
+
+@media only screen and (max-width:400px){
+  #title{
+    line-height: 30px;
+  }
+}
