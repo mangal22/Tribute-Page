@@ -5,8 +5,8 @@ body{
 main{
   font-size:25px;
    display:block;
+   width:55%;
   margin:auto;
-  width:55%;
 }
 h1{
   font-size:35px;
@@ -55,9 +55,8 @@ footer{
   font-size:20px;
   font-weight:bold;
 }
-@media(max-width:700px){
+@media only screen and (max-width:720px){
   main{
-    font-size:20px;
     width:90%;
   }
 }
