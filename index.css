@@ -59,4 +59,16 @@ footer{
   main{
     width:90%;
   }
+  #img2-div{
+    float: none;
+    text-align: center;
+  }
+  #img3-div{
+    text-align: center;
+    float:none;
+  }
+  #image3{
+    float:none;
+    width:50%;
+  }
 }
