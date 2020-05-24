@@ -58,6 +58,8 @@ footer{
 @media only screen and (max-width:720px){
   main{
     width:90%;
+    line-height: 23px;
+    font-size: 23px;
   }
   #img2-div{
     float: none;
@@ -70,5 +72,8 @@ footer{
   #image3{
     float:none;
     width:50%;
+  }
+  #title-desc{
+    padding-top: 10px; 
   }
 }
