@@ -1,0 +1,58 @@
+main{
+  font-size:25px;
+   display:block;
+  margin:auto;
+  width:55%;
+  opacity:100%;
+}
+h1{
+  font-size:35px;
+}
+#title{
+  font-size:40px;
+  text-align:center;
+  margin-bottom:50px; 
+}
+#title-desc{
+  font-size:20px;  
+}
+#image{
+ max-width:100%;
+  display:block;
+}
+#img-caption{
+  font-size:16px;
+}
+#Letter-to-Hardy p{
+  float:left;
+}
+#img2-div{
+  float:right;
+}
+#img3-div{
+  float:left;
+}
+#image3{
+  width:90%;
+}
+#hardy-info p{
+  float:left;
+}
+#img4-div{
+  text-align:center;
+}
+#quote p{
+  padding-left:50px;
+  border-left:1px groove;
+  font-family:Garamond;
+}
+footer{
+  margin-top:75px;
+  font-size:20px;
+  font-weight:bold;
+}
+@media(max-width:300px){
+ main{
+   font-size:18px;
+}
+}
