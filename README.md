@@ -1,4 +1,3 @@
 # Tribute-Page
 Tribute to Ramanujan
-Test
-GitPod Test
+URL: https://mangal22.github.io/Tribute-Page/
