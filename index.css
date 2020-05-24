@@ -43,7 +43,7 @@ h1{
   text-align:center;
 }
 #image4{
-  width: 100%;
+  max-width: 100%;
 }
 #quote p{
   padding-left:50px;
