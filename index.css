@@ -1,9 +1,12 @@
+body{
+  background: rgb(232,232,240);
+  background: linear-gradient(90deg, rgba(232,232,240,1) 0%, rgba(237,237,240,1) 40%, rgba(213,224,227,1) 100%);
+}
 main{
   font-size:25px;
    display:block;
   margin:auto;
   width:55%;
-  opacity:100%;
 }
 h1{
   font-size:35px;
